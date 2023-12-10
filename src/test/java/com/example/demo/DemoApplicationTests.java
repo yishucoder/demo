@@ -9,7 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
 
-        String  x ;
+        String x = "*****";
 
 
     }
